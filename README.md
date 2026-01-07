@@ -18,5 +18,5 @@ The dashboard helps understand trends, comparisons, and key metrics using charts
 • User-friendly dashboard design
 
 📸 Dashboard Preview
- https://github.com/Trecima14/Music-Dashboard/blob/main/Music_snapshot.png
- https://github.com/Trecima14/Music-Dashboard/blob/main/Music_snapshot2.png
+• https://github.com/Trecima14/Music-Dashboard/blob/main/Music_snapshot.png
+• https://github.com/Trecima14/Music-Dashboard/blob/main/Music_snapshot2.png
