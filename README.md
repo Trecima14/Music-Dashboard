@@ -16,3 +16,6 @@ The dashboard helps understand trends, comparisons, and key metrics using charts
 🚀 Project Highlights
 • Interactive and easy-to-understand visuals
 • User-friendly dashboard design
+
+Dashboard
+https://github.com/Trecima14/Music-Dashboard/blob/main/Music_snapshot.png
